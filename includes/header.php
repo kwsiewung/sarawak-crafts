@@ -74,7 +74,7 @@ $page_title = $page_title ?? "Home";
 
                     <li class="nav-item">
                         <a class="nav-link" href="<?php echo $base_url; ?>">
-                            Home1
+                            Home
                         </a>
                     </li>
 
