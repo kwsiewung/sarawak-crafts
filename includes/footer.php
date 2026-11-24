@@ -94,10 +94,6 @@
                 Made with pride in Sarawak, Malaysia.
             </p>
 
-            <p class="small text-muted mb-0">
-                Development Version 0.2
-            </p>
-
         </div>
 
     </div>
