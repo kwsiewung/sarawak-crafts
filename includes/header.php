@@ -1,6 +1,9 @@
 <?php
 $website_name = "SarawakMart";
-$base_url = "/sarawak-crafts/";
+$base_url = strpos(
+    $_SERVER["SCRIPT_NAME"],
+    "/sarawak-crafts/"
+) === 0 ? "/sarawak-crafts/" : "/";
 $page_title = $page_title ?? "Home";
 ?>
 
